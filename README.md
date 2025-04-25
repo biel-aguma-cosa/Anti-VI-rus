@@ -1,4 +1,4 @@
 notes on 0.0.1:
--X fix "air" variable
+- fix "air" variable **X**0.0.2
 - add more platforms
 - add enemies
