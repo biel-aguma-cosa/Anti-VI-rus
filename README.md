@@ -4,7 +4,7 @@ notes on 0.0.1:
 - add enemies
   
 notes on 0.0.3:
-- fix whatever happened with the map editor **X**0.0.4 [forgot what that was lol]
+- fix whatever happened with the map editor **X**0.0.4 [forgot what that was lol, not a problem anymore tho]
 - add map changing **X**0.0.4
 
 notes on 0.0.4:
