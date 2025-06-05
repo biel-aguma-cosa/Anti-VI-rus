@@ -12,4 +12,4 @@
 - more maps
 
 ### notes on 0.0.6:
-- literally just check the comments on the code ¯\_(ツ)_/¯
+- literally just check the comments on the code ¯`-(ツ)-´¯
