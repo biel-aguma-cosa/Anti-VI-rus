@@ -13,3 +13,7 @@
 
 ### notes on 0.0.6:
 - literally just check the comments on the code ¯`-(ツ)-´¯
+
+### notes on 0.0.7:
+- I FORGOT TO CHECK THE COMMENTS T^T
+- added moving "End"s tho o.o
